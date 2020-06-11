@@ -13,8 +13,8 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 ## Official
 
 - [Website](https://m3o.com)
-- [Developers](https://dev.m3o.com)
 - [Blog](https://medium.com/microhq)
+- [Docs](https://dev.m3o.com)
 - [Slack](https://slack.micro.mu)
 - [Examples](https://github.com/micro/examples)
 - [Sponsors](https://github.com/sponsors/micro)
