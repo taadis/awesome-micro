@@ -26,12 +26,12 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 
 ## Projects
 
-- [Micro Starter Kit](https://github.com/xmlking/micro-starter-kit) by @xmlking
+- [Micro Starter Kit](https://github.com/xmlking/micro-starter-kit) by [@xmlking](https://github.com/xmlking)
 
 ## Tutorials
 
-- [Microservices in Golang](https://ewanvalentine.io/microservices-in-golang-part-1/) by Ewan Valentine
+- [Microservices in Golang](https://ewanvalentine.io/microservices-in-golang-part-1/) by [@ewanvalentine](https://github.com/ewanvalentine)
 
 ## Videos
 
-- [Microservices in Go](https://www.youtube.com/watch?v=OcjMi9cXItY) with Brian Ketelsen
+- [Microservices in Go](https://www.youtube.com/watch?v=OcjMi9cXItY) with [@bketelsen](https://github.com/bketelsen)
