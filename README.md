@@ -15,3 +15,4 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 - [Blog](https://medium.com/microhq)
 - [Slack](https://slack.micro.mu)
 - [Examples](https://github.com/micro/examples)
+- [Sponsors](https://github.com/sponsors/micro)
