@@ -7,6 +7,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 ## Contents
 
 - [Official](#official)
+- [Podcasts](#podcasts)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 
@@ -18,6 +19,10 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 - [Slack](https://slack.micro.mu)
 - [Examples](https://github.com/micro/examples)
 - [Sponsors](https://github.com/sponsors/micro)
+
+## Podcasts
+
+- [Micro on Go Time](https://changelog.com/gotime/8)
 
 ## Tutorials
 
