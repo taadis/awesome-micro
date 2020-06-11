@@ -30,6 +30,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 - [Micro Starter Kit](https://github.com/xmlking/micro-starter-kit) by [@xmlking](https://github.com/xmlking)
 - [Micro in China](https://github.com/micro-in-cn) by [@printfcoder](https://github.com/printfcoder)
 - [Kytra Stock Portfolio](https://github.com/microhq/portfolio) by [@ben-toogood](https://github.com/ben-toogood)
+- [PaySuper](https://github.com/paysuper) - A payments toolkit for developers
 
 ## Tutorials
 
