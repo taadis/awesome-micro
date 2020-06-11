@@ -24,6 +24,10 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 
 - [Micro on Go Time](https://changelog.com/gotime/8)
 
+## Projects
+
+- [Micro Starter Kit](https://github.com/xmlking/micro-starter-kit) by @xmlking
+
 ## Tutorials
 
 - [Microservices in Golang](https://ewanvalentine.io/microservices-in-golang-part-1/) by Ewan Valentine
