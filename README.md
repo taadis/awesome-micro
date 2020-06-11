@@ -1,4 +1,4 @@
-# Awesome Micro
+# Awesome Micro [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) projects.
 
