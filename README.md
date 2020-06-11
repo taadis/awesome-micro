@@ -8,6 +8,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 
 - [Official](#official)
 - [Tutorials](#tutorials)
+- [Videos](#videos)
 
 ## Official
 
@@ -21,3 +22,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 ## Tutorials
 
 - [Microservices in Golang](https://ewanvalentine.io/microservices-in-golang-part-1/) by Ewan Valentine
+
+## Videos
+
+- [Microservices in Go](https://www.youtube.com/watch?v=OcjMi9cXItY) with Brian Ketelsen
