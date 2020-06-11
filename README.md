@@ -28,6 +28,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 ## Projects
 
 - [Micro Starter Kit](https://github.com/xmlking/micro-starter-kit) by [@xmlking](https://github.com/xmlking)
+- [Micro in China](https://github.com/micro-in-cn) by [@printfcoder](https://github.com/printfcoder)
 
 ## Tutorials
 
