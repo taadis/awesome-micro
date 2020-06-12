@@ -34,6 +34,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 - [PaySuper](https://github.com/paysuper) - A payments toolkit for developers
 - [Pydio Cells](https://github.com/pydio/cells) - Future proof content sharing platform
 - [Shippy](https://github.com/EwanValentine/shippy) - The code for Microservices in Golang tutorial
+- [goTemp](https://bitbucket.org/Bolbeck/gotemp/src/master) -  Introduction to Golang microservices using go-micro
 
 ## Tutorials
 
