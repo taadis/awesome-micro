@@ -33,6 +33,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 - [ownCloud Infinite Stack](https://github.com/owncloud/ocis) - ownCloud's v2 self hosted cloud stack
 - [PaySuper](https://github.com/paysuper) - A payments toolkit for developers
 - [Pydio Cells](https://github.com/pydio/cells) - Future proof content sharing platform
+- [Shippy](https://github.com/EwanValentine/shippy) - The code for Microservices in Golang tutorial by Ewan Valentine
 
 ## Tutorials
 
