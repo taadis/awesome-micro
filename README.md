@@ -27,9 +27,9 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 
 ## Projects
 
-- [Micro Starter Kit](https://github.com/xmlking/micro-starter-kit) by [@xmlking](https://github.com/xmlking)
-- [Micro in China](https://github.com/micro-in-cn) by [@printfcoder](https://github.com/printfcoder)
-- [Kytra Stock Portfolio](https://github.com/microhq/portfolio) by [@ben-toogood](https://github.com/ben-toogood)
+- [Micro Starter Kit](https://github.com/xmlking/micro-starter-kit) - A quick start template by [@xmlking](https://github.com/xmlking)
+- [Micro in China](https://github.com/micro-in-cn) - The Micro China community managed by [@printfcoder](https://github.com/printfcoder)
+- [Kytra](https://github.com/microhq/portfolio) - A stock portfolio app by [@ben-toogood](https://github.com/ben-toogood)
 - [ownCloud Infinite Stack](https://github.com/owncloud/ocis) - ownCloud's v2 self hosted cloud stack
 - [PaySuper](https://github.com/paysuper) - A payments toolkit for developers
 - [Pydio Cells](https://github.com/pydio/cells) - Future proof content sharing platform
