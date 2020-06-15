@@ -11,6 +11,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 - [Projects](#projects)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
+- [Users](#users)
 
 ## Official
 
@@ -45,3 +46,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 ## Videos
 
 - [Microservices in Go](https://www.youtube.com/watch?v=OcjMi9cXItY) with [@bketelsen](https://github.com/bketelsen)
+
+## Users
+
+- [List of Users](https://dev.m3o.com/users)
