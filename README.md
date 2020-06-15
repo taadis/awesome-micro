@@ -16,6 +16,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 ## Official
 
 - [Website](https://m3o.com)
+- [GitHub](https://github.com/micro)
 - [Blog](https://medium.com/microhq)
 - [Docs](https://dev.m3o.com)
 - [Slack](https://slack.micro.mu)
