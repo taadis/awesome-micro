@@ -47,6 +47,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 ## Videos
 
 - [Microservices in Go](https://www.youtube.com/watch?v=OcjMi9cXItY) with [@bketelsen](https://github.com/bketelsen)
+- [Simplifying Microservices with Micro](https://www.youtube.com/watch?v=xspaDovwk34) with [@asim](https://www.youtube.com/watch?v=xspaDovwk34)
 
 ## Users
 
