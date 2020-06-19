@@ -7,6 +7,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 ## Contents
 
 - [Official](#official)
+- [Organization](#organization)
 - [Podcasts](#podcasts)
 - [Projects](#projects)
 - [Tutorials](#tutorials)
@@ -23,19 +24,23 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 - [Examples](https://github.com/micro/examples)
 - [Sponsors](https://github.com/sponsors/micro)
 
+## Organization
+
+- [Micro in China](https://github.com/micro-in-cn) - The Micro China community managed by [@printfcoder](https://github.com/printfcoder) and [crazybber](github.com/crazybber)
+- [Micro Community](https://github.com/micro-community) - A Micro Lover Community Build By  [crazybber](github.com/crazybber) and [@printfcoder](https://github.com/printfcoder)
+- [PaySuper](https://github.com/paysuper) - A payments toolkit for developers
+
 ## Podcasts
 
 - [Micro on Go Time](https://changelog.com/gotime/8)
 
 ## Projects
 
-- [Micro Starter Kit](https://github.com/xmlking/micro-starter-kit) - A quick start template by [@xmlking](https://github.com/xmlking)
-- [Micro in China](https://github.com/micro-in-cn) - The Micro China community managed by [@printfcoder](https://github.com/printfcoder)
-- [Kytra](https://github.com/microhq/portfolio) - A stock portfolio app by [@ben-toogood](https://github.com/ben-toogood)
+- [Micro Starter Kit](https://github.com/xmlking/micro-starter-kit)  [![Stars](https://img.shields.io/github/stars/xmlking/micro-starter-kit.svg)](https://github.com/xmlking/micro-starter-kit) - A quick start template - A quick start template by [@xmlking](https://github.com/xmlking)
+- [Kytra](https://github.com/microhq/portfolio)  [![Stars](https://img.shields.io/github/stars/microhq/portfolio.svg)](https://github.com/microhq/portfoliot) - A stock portfolio app by [@ben-toogood](https://github.com/ben-toogood)
 - [ownCloud Infinite Stack](https://github.com/owncloud/ocis) - ownCloud's v2 self hosted cloud stack
-- [PaySuper](https://github.com/paysuper) - A payments toolkit for developers
-- [Pydio Cells](https://github.com/pydio/cells) - Future proof content sharing platform
-- [Shippy](https://github.com/EwanValentine/shippy) - The code for Microservices in Golang tutorial
+- [Pydio Cells](https://github.com/pydio/cells) [![Stars](https://img.shields.io/github/stars/pydio/cells.svg)](https://github.com/pydio/cells) - Future proof content sharing platform
+- [Shippy](https://github.com/EwanValentine/shippy) [![Stars](https://img.shields.io/github/stars/EwanValentine/shippy.svg)](https://github.com/EwanValentine/shippy) - The code for Microservices in Golang tutorial
 - [goTemp](https://bitbucket.org/Bolbeck/gotemp/src/master) -  Introduction to Golang microservices using go-micro
 
 ## Tutorials
