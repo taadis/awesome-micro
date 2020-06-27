@@ -7,7 +7,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 ## Contents
 
 - [Official](#official)
-- [Organization](#organization)
+- [Orgs](#orgs)
 - [Podcasts](#podcasts)
 - [Projects](#projects)
 - [Tutorials](#tutorials)
@@ -24,7 +24,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 - [Examples](https://github.com/micro/examples)
 - [Sponsors](https://github.com/sponsors/micro)
 
-## Organization
+## Orgs
 
 - [Micro in China](https://github.com/micro-in-cn) - The Micro China community managed by [@printfcoder](https://github.com/printfcoder) and [crazybber](github.com/crazybber)
 - [Micro Community](https://github.com/micro-community) - A Micro Lover Community Build By  [crazybber](github.com/crazybber) and [@printfcoder](https://github.com/printfcoder)
