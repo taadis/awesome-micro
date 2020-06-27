@@ -7,7 +7,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 ## Contents
 
 - [Official](#official)
-- [Communities](#communities)
+- [Groups](#groups)
 - [Podcasts](#podcasts)
 - [Projects](#projects)
 - [Tutorials](#tutorials)
