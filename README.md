@@ -16,12 +16,12 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 
 ## Official
 
-- [Website](https://m3o.com)
+- [Platform](https://m3o.com)
 - [GitHub](https://github.com/micro)
 - [Blog](https://medium.com/microhq)
-- [Docs](https://dev.m3o.com)
+- [Docs](https://github.com/micro/docs)
 - [Slack](https://slack.m3o.com)
-- [Examples](https://github.com/micro/examples)
+- [Services](https://github.com/micro/services)
 - [Sponsors](https://github.com/sponsors/micro)
 
 ## Groups
@@ -56,4 +56,4 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 
 ## Users
 
-- [List of Users](https://dev.m3o.com/users)
+- [List of Users](https://github.com/micro/docs/tree/master/users)
