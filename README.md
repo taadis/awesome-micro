@@ -23,6 +23,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 - [Slack](https://slack.m3o.com)
 - [Services](https://github.com/micro/services)
 - [Sponsors](https://github.com/sponsors/micro)
+- [Twitter](https://twitter.com/m3oservices)
 
 ## Groups
 
