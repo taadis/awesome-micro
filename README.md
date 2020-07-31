@@ -18,7 +18,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 ## Official
 
 - [Docs](https://github.com/micro/docs)
-- [GitHub](https://github.com/micro)
+- [Framework](https://github.com/micro/micro)
 - [Services](https://github.com/micro/services)
 - [Sponsors](https://github.com/sponsors/micro)
 - [Twitter](https://twitter.com/microhq)
