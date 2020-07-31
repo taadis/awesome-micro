@@ -25,6 +25,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 
 ## Groups
 
+- [Micro Services](https://slack.m3o.com) - The offical slack community of the company Micro Services
 - [Micro in China](https://github.com/micro-in-cn) - The Micro China community managed by [@printfcoder](https://github.com/printfcoder) and [crazybber](github.com/crazybber)
 - [Micro Community](https://github.com/micro-community) - A Micro Lover Community Build By  [crazybber](github.com/crazybber) and [@printfcoder](https://github.com/printfcoder)
 - [PaySuper](https://github.com/paysuper) - A payments toolkit for developers
