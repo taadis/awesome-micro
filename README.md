@@ -7,7 +7,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 ## Contents
 
 - [Official](#official)
-- [Groups](#groups)
+- [Organizations](#organizations)
 - [Platforms](#platforms)
 - [Podcasts](#podcasts)
 - [Projects](#projects)
@@ -23,9 +23,9 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 - [Sponsors](https://github.com/sponsors/micro)
 - [Twitter](https://twitter.com/microhq)
 
-## Groups
+## Organizations
 
-- [Micro Services](https://slack.m3o.com) - The offical slack community of the company Micro Services
+- [Micro Services](https://github.com/m3o) - The company Micro Services which builds the platform [M3O](https://m3o.com)
 - [Micro in China](https://github.com/micro-in-cn) - The Micro China community managed by [@printfcoder](https://github.com/printfcoder) and [crazybber](github.com/crazybber)
 - [Micro Community](https://github.com/micro-community) - A Micro Lover Community Build By  [crazybber](github.com/crazybber) and [@printfcoder](https://github.com/printfcoder)
 - [PaySuper](https://github.com/paysuper) - A payments toolkit for developers
