@@ -17,6 +17,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 
 ## Official
 
+- [Community](https://slack.m3o.com)
 - [Docs](https://github.com/micro/docs)
 - [Framework](https://github.com/micro/micro)
 - [Services](https://github.com/micro/services)
