@@ -1,6 +1,6 @@
 # Awesome Micro [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) projects.
+Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) projects and resources.
 
 [Micro](https://github.com/micro) is a cloud native development framework.
 
