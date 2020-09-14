@@ -20,7 +20,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 - [Community](https://slack.m3o.com) - The slack community
 - [Docs](https://github.com/micro/docs) - The docs, guides and quick starts
 - [Framework](https://github.com/micro/micro) - The open source Micro framework
-- [Services](https://github.com/micro/services) - Real world Micro services
+- [Services](https://github.com/micro/services) - Example Micro services
 - [Sponsors](https://github.com/sponsors/micro) - GitHub sponsorship for maintainers
 - [Twitter](https://twitter.com/microhq) - The twitter account for updates
 
