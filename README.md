@@ -53,6 +53,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 - [Microservices in Golang](https://ewanvalentine.io/microservices-in-golang-part-1/) by [@ewanvalentine](https://github.com/ewanvalentine)
 - [Micro In Action](https://medium.com/@dche423/micro-in-action-1be29b057f2d) by [Che Dan
 ](https://twitter.com/dche423)
+- [Go Micro 中文文档](https://learnku.com/docs/go-micro/)
 
 ## Videos
 
